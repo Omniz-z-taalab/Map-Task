@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "202465554511",
+    "project_id": "maptask-130be",
+    "storage_bucket": "maptask-130be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202465554511:android:f157d44de2a3a51e00fa3a",
+        "android_client_info": {
+          "package_name": "com.example.maptask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202465554511-d4bvgjd374bi2f96b67fn8hglgaclkpo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsD1iJwmYm4iEeMIRu6hghpW6x0a1M0NQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202465554511-d4bvgjd374bi2f96b67fn8hglgaclkpo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
